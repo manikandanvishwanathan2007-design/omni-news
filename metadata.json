@@ -1,0 +1,5 @@
+{
+  "name": "OmniNews AI",
+  "description": "Advanced global news intelligence system providing multi-perspective analysis, fact-checking, and personalized structured digests.",
+  "requestFramePermissions": ["microphone"]
+}
